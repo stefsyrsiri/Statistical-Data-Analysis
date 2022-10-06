@@ -4,9 +4,9 @@ Forbes Global 2000 list (dataset is included via the package "HSAUR2" and "HSAUR
 Project for Panteion University under the course "Applied Computer Science - Data Analysis"
 
 # What is included:
-Discovery of Data
-Structuring
-Variable transformation
-Cleaning
-EDA (tables and charts)
-Statistics
+* Discovery of Data
+* Structuring
+* Variable transformation
+* Cleaning
+* EDA (tables and charts)
+* Statistics
