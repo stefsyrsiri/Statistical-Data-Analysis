@@ -10,3 +10,10 @@ Project for Panteion University under the course "Applied Computer Science - Dat
 * Cleaning
 * EDA (tables and charts)
 * Statistics
+
+# Libraries included:
+* dplyr
+* ggplot2
+*
+*
+*
